@@ -21,6 +21,7 @@ Soy un esdutiante del IESTP "MISIONEROS MONFORTIANOS" y me objetivo de este año
   </div>
   
 ### 🛠 Lenguajes y herramientas que práctico :
+<div id="header" align="left">
 <a>
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width:80px; border-radius:10%">
 </a>
@@ -45,6 +46,7 @@ Soy un esdutiante del IESTP "MISIONEROS MONFORTIANOS" y me objetivo de este año
 <a>
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="width:80px; border-radius:10%">
  </a>
+   </div>
  
 **MIS ESTADÍSTICAS ✏:**
 
