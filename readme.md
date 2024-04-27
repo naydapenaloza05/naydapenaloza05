@@ -25,7 +25,7 @@ Soy un esdutiante del IESTP "MISIONEROS MONFORTIANOS" y me objetivo de este año
    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width:80px; 
     border-radius:10%">
     </a>
-<img src="	https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" style="width:80px; border-radius:10%">
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" style="width:80px; border-radius:10%">
  </a>
  <a>
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width:80px; border-radius:10%">
